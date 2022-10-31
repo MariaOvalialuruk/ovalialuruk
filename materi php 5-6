@@ -1,0 +1,19 @@
+<!doctype html>
+<html
+  <head>
+    <meta charset='utf-8'>
+  <title>Belaar Php</title>
+  <head>
+    <body> 
+
+    <h1>Array PHP</h1>h1>
+
+    <?php
+//----- tipe data array -----
+  sikotak =array('kuda', 'kurakura', 'Tiqa'),
+
+//print_(skotak);
+echo $nama{0};
+    ?>
+    </body>
+</html>
